@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+}
+
+.service-image {
+    height: 220px;
+    object-fit: cover;
+}
+
+.thumb {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 8px;
+}
